@@ -1,0 +1,11 @@
+dsniff
+-- https://monkey.org/~dugsong/dsniff/
+
+	An adversary can use the macoff utility of dsniff package to flood a switch
+	with random Ethernet frames and IP packets, resulting in a CAM table overflow.
+	Unable to map inbound frames to their destinations, the switch will fail-open
+	and broadcast them to all ports becoming a hub).
+	
+	Following commans overflows CAM table using macof
+	
+	root@kali:~# macof -i eth0 
