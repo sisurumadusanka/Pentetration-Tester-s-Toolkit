@@ -1,0 +1,14 @@
+sslstrip
+-- https://medium.com/bugbountywriteup/ssl-strip-how-awesome-it-is-a0eb79e28bcc
+
+easy-creds - Glean credentials from Ettercap, sslstrip and others.
+-- https://github.com/brav0hax/easy-creds
+
+Evilgrade - Serves malicious content to victims by service impersonation.
+-- https://github.com/infobyte/evilgrade
+
+Metasploit
+-- Metasploit ARP Sweep
+   -- https://www.youtube.com/watch?v=LskZNt-SznQ
+   
+
